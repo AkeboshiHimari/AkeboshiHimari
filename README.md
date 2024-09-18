@@ -2,7 +2,7 @@
 Pseudo-developer. Yay.
 
 B.S. in Physics (In progress)
-- 🔭 I’m currently working on **[Kite](kitebooth.com)** - A platform for doujin exhibitions. (Currently down for maintenance)
+- 🔭 I’m currently working on **[Kite](https://kitebooth.com)** - A platform for doujin exhibitions. (Currently down for maintenance)
 - 🌱 I’m currently learning microservice architecture
 - 🤔 I’m looking for collaborators. If you are interested in my project Kite, please contact me via email or Twitter (X)
 
