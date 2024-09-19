@@ -3,7 +3,7 @@ Pseudo-developer. Yay.
 
 B.S. in Physics (In progress)
 - 🔭 I’m currently working on **[Kite](https://kitebooth.com)** - A platform for doujin exhibitions. (Currently down for maintenance)
-- 🌱 I’m currently learning microservice architecture
+- 🌱 I’m currently learning **algorithm training**
 - 🤔 I’m looking for collaborators. If you are interested in my project Kite, please contact me via email or Twitter (X)
 
 ### 🛠️Skills 
@@ -16,3 +16,7 @@ B.S. in Physics (In progress)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+
+### 💻solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akeboshihimari)](https://solved.ac/akeboshihimari/)
