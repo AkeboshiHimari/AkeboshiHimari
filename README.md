@@ -1,5 +1,5 @@
 ## Hi there 👋
-~~Full-stack developer~~?
+Developer-ish something🤔
 
 B.S. in Physics (In progress)
 - 🔭 I’m currently working on **[Kite](https://kitebooth.com)** - A platform for doujin exhibitions.
