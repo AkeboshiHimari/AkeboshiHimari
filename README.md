@@ -2,9 +2,6 @@
 Developer-ish something🤔
 
 B.S. in Physics (In progress)
-- 🔭 I’m currently working on **[Kite](https://kitebooth.com)** - A platform for doujin exhibitions.
-- 🌱 I’m currently learning **microservice architecture**
-- 🤔 I’m looking for collaborators. If you are interested in my project Kite, please contact me via email
 
 ### 🛠️Skills 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
