@@ -8,11 +8,11 @@ B.S. in Physics (In progress)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akeboshihimari)](https://solved.ac/akeboshihimari/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=akeboshihimari&theme=dark)](https://solved.ac/akeboshihimari/)
 -->
-### Languages and Skills
-#### Statistics
+## Languages and Skills
+### Statistics
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=AkeboshiHimari&theme=react&show_icons=true&hide_border=true&layout=compact' />
 
-#### Favourites
+### Favourites
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
