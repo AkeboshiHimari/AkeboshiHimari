@@ -26,7 +26,7 @@ B.S. in Physics (In progress)
 ## Repos
 ### Created
 #### Web Applications
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=kite&theme=react&hide_border=true)](https://github.com/stratocanvas/kite)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=dolce-biblioteca&theme=react&hide_border=true)](https://github.com/stratocanvas/dolce-biblioteca)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akeboshihimari&repo=kyt&theme=react&hide_border=true)](https://github.com/akeboshihimari/kyt)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=kite&theme=react&hide_border=true)](https://github.com/stratocanvas/kite)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=dolce-biblioteca&theme=react&hide_border=true)](https://github.com/stratocanvas/dolce-biblioteca)
 
 #### Libraries and Tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=easy-ort&theme=react&hide_border=true)](https://github.com/stratocanvas/easy-ort)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkeboshiHimari&repo=watermark-tool&theme=react&hide_border=true)](https://github.com/AkeboshiHimari/watermark-tool)
