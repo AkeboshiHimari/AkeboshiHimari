@@ -1,7 +1,7 @@
 ## Hi there 👋
 Developer-ish something🤔
 
-B.S. in Physics (In progress)
+B.S. in Astronomy (In progress)
 
 <!--
 ### 💻solved.ac Profile
