@@ -26,13 +26,13 @@ B.S. in Astronomy (In progress)
 ## Repos
 ### Created
 #### Web Applications
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akeboshihimari&repo=kyt&theme=react&hide_border=true)](https://github.com/akeboshihimari/kyt)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=kite&theme=react&hide_border=true)](https://github.com/stratocanvas/kite)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=dolce-biblioteca&theme=react&hide_border=true)](https://github.com/stratocanvas/dolce-biblioteca)
+[![kyt](https://github-readme-stats.vercel.app/api/pin/?username=akeboshihimari&repo=kyt&theme=react&hide_border=true)](https://github.com/akeboshihimari/kyt)[![kite](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=kite&theme=react&hide_border=true)](https://github.com/stratocanvas/kite)[![dolce-biblioteca](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=dolce-biblioteca&theme=react&hide_border=true)](https://github.com/stratocanvas/dolce-biblioteca)
 
 #### Libraries and Tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=easy-ort&theme=react&hide_border=true)](https://github.com/stratocanvas/easy-ort)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkeboshiHimari&repo=watermark-tool&theme=react&hide_border=true)](https://github.com/AkeboshiHimari/watermark-tool)
+[![easy-ort](https://github-readme-stats.vercel.app/api/pin/?username=stratocanvas&repo=easy-ort&theme=react&hide_border=true)](https://github.com/stratocanvas/easy-ort)[![watermark-tool](https://github-readme-stats.vercel.app/api/pin/?username=AkeboshiHimari&repo=watermark-tool&theme=react&hide_border=true)](https://github.com/AkeboshiHimari/watermark-tool)
 
 ### Contributed
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=better-auth&repo=better-auth&theme=react&hide_border=true)](https://github.com/better-auth/better-auth)
+[![better-auth](https://github-readme-stats.vercel.app/api/pin/?username=better-auth&repo=better-auth&theme=react&hide_border=true)](https://github.com/better-auth/better-auth)
 
 ### Account Statistics
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=AkeboshiHimari&theme=react&show_icons=true&hide_border=true&count_private=true' /><img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=AkeboshiHimari&theme=react&hide_border=true' />
